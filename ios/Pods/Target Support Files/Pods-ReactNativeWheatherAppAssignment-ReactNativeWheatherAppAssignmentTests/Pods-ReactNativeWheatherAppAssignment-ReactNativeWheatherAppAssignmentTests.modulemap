@@ -1,0 +1,6 @@
+module Pods_ReactNativeWheatherAppAssignment_ReactNativeWheatherAppAssignmentTests {
+  umbrella header "Pods-ReactNativeWheatherAppAssignment-ReactNativeWheatherAppAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
